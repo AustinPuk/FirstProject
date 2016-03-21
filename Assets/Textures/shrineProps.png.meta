@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: b545d4485ca3d874ca28f8bb144a2f5c
+timeCreated: 1458539336
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mountain
+    21300002: sakura
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mountain
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1408
+        width: 963
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 11}
+      outline:
+      - - {x: 463.5, y: -32}
+        - {x: 462.5, y: -30}
+        - {x: 451.5, y: -25}
+        - {x: 445.5, y: -24}
+        - {x: 431.5, y: -19}
+        - {x: 424.5, y: -16}
+        - {x: 416.5, y: -13}
+        - {x: 406.5, y: -9}
+        - {x: 399.5, y: -6}
+        - {x: 394.5, y: -4}
+        - {x: 385.5, y: 0}
+        - {x: 372.5, y: 6}
+        - {x: 367.5, y: 8}
+        - {x: 360.5, y: 11}
+        - {x: 355.5, y: 13}
+        - {x: 347.5, y: 16}
+        - {x: 322.5, y: 26}
+        - {x: 290.5, y: 38}
+        - {x: 278.5, y: 41}
+        - {x: 267.5, y: 47}
+        - {x: 262.5, y: 49}
+        - {x: 260.5, y: 49}
+        - {x: 242.5, y: 58}
+        - {x: 217.5, y: 70}
+        - {x: 215.5, y: 72}
+        - {x: 207.5, y: 76}
+        - {x: 197.5, y: 80}
+        - {x: 180.5, y: 88}
+        - {x: 167.5, y: 94}
+        - {x: 162.5, y: 96}
+        - {x: 156.5, y: 99}
+        - {x: 143.5, y: 105}
+        - {x: 125.5, y: 113}
+        - {x: 115.5, y: 118}
+        - {x: 112.5, y: 120}
+        - {x: 99.5, y: 127}
+        - {x: 92.5, y: 131}
+        - {x: 79.5, y: 138}
+        - {x: 73.5, y: 142}
+        - {x: 60.5, y: 150}
+        - {x: 56.5, y: 153}
+        - {x: 41.5, y: 161}
+        - {x: 26.5, y: 170}
+        - {x: 16.5, y: 177}
+        - {x: -4.5, y: 192}
+        - {x: -18.5, y: 200}
+        - {x: -28.5, y: 200}
+        - {x: -36.5, y: 196}
+        - {x: -56.5, y: 196}
+        - {x: -57.5, y: 197}
+        - {x: -64.5, y: 199}
+        - {x: -74.5, y: 199}
+        - {x: -87.5, y: 188}
+        - {x: -96.5, y: 181}
+        - {x: -107.5, y: 174}
+        - {x: -119.5, y: 164}
+        - {x: -147.5, y: 144}
+        - {x: -153.5, y: 141}
+        - {x: -156.5, y: 138}
+        - {x: -165.5, y: 131}
+        - {x: -178.5, y: 121}
+        - {x: -190.5, y: 113}
+        - {x: -195.5, y: 111}
+        - {x: -201.5, y: 107}
+        - {x: -204.5, y: 104}
+        - {x: -216.5, y: 96}
+        - {x: -220.5, y: 94}
+        - {x: -234.5, y: 86}
+        - {x: -236.5, y: 84}
+        - {x: -247.5, y: 79}
+        - {x: -255.5, y: 76}
+        - {x: -266.5, y: 71}
+        - {x: -271.5, y: 68}
+        - {x: -279.5, y: 67}
+        - {x: -290.5, y: 62}
+        - {x: -304.5, y: 57}
+        - {x: -314.5, y: 53}
+        - {x: -332.5, y: 47}
+        - {x: -346.5, y: 42}
+        - {x: -357.5, y: 39}
+        - {x: -363.5, y: 37}
+        - {x: -383.5, y: 31}
+        - {x: -410.5, y: 22}
+        - {x: -420.5, y: 19}
+        - {x: -428.5, y: 17}
+        - {x: -435.5, y: 14}
+        - {x: -443.5, y: 13}
+        - {x: -450.5, y: 11}
+        - {x: -461.5, y: 8}
+        - {x: -477.5, y: 4}
+        - {x: -481.5, y: 2}
+        - {x: -481.5, y: -11}
+        - {x: -480.5, y: -15}
+        - {x: -480.5, y: -28}
+        - {x: -479.5, y: -29}
+        - {x: -479.5, y: -194}
+        - {x: -477.5, y: -198}
+        - {x: -474.5, y: -199}
+        - {x: 473.5, y: -199}
+        - {x: 475.5, y: -197}
+        - {x: 475.5, y: -37}
+        - {x: 472.5, y: -34}
+    - name: sakura
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1023
+        width: 384
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 165, y: -57}
+        - {x: 189, y: -48}
+        - {x: 189, y: 56}
+        - {x: 159, y: 73}
+        - {x: 57, y: 73}
+        - {x: 10, y: 63}
+        - {x: -29, y: 73}
+        - {x: -55, y: 73}
+        - {x: -108, y: 64}
+        - {x: -164, y: 70}
+        - {x: -180, y: 53}
+        - {x: -180, y: -51}
+        - {x: -132, y: -75}
+        - {x: 13, y: -75}
+        - {x: 63, y: -55}
+        - {x: 128, y: -57}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
