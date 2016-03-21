@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 939dfdb886e84764081f771dee359f13
-timeCreated: 1458550196
+guid: c291c107d980e2f40bf7c3c44b4b44f7
+timeCreated: 1458547223
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Tomoka
+    21300000: GreenSlime
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -27,8 +27,8 @@ TextureImporter:
   cubemapConvolutionSteps: 7
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
-  textureFormat: -1
-  maxTextureSize: 4096
+  textureFormat: -2
+  maxTextureSize: 8192
   textureSettings:
     filterMode: -1
     aniso: 16
@@ -51,28 +51,27 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Tomoka
+    - name: GreenSlime
       rect:
         serializedVersion: 2
-        x: 317
-        y: 50
-        width: 157
-        height: 334
+        x: 5
+        y: 4082
+        width: 72
+        height: 68
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 44, y: 14, z: 33, w: 21}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 75.5, y: 71}
-        - {x: 33.5, y: 151}
-        - {x: -27.5, y: 151}
-        - {x: -32.5, y: 144}
-        - {x: -38.5, y: 53}
-        - {x: -68.5, y: 38}
-        - {x: -68.5, y: -155}
-        - {x: 36.5, y: -155}
-        - {x: 38.5, y: -154}
-        - {x: 45.5, y: -151}
-        - {x: 75.5, y: -106}
+      - - {x: 12.458584, y: 14.1875}
+        - {x: 6.458584, y: 17.1875}
+        - {x: -3.5414162, y: 17.1875}
+        - {x: -17.541416, y: 5.1875}
+        - {x: -17.541416, y: -7.8125}
+        - {x: -9.541416, y: -11.8125}
+        - {x: 4.458584, y: -11.8125}
+        - {x: 12.458584, y: -8.8125}
+        - {x: 18.458584, y: -6.8125}
+        - {x: 18.458584, y: 1.1875}
     outline: []
   spritePackingTag: 
   userData: 
